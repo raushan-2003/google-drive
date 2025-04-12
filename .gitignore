@@ -6,4 +6,4 @@ logs
 *.log 
 
 # Environment Variable filles
-#.env 
+.env 

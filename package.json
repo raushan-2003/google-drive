@@ -9,6 +9,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "moment-timezone": "^0.5.48",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.2",
+    "path": "^0.12.7"
   }
 }
